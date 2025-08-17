@@ -1,6 +1,6 @@
 # 🌸 Hi there, I'm Talia! 🌸
 
-![Anime Cherry Blossoms Flowing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw3MXgxZ3p3MjBmZDA3Ynk1eGp3Z3Bzc3N1Z3owYWF0ODdjNnQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12LFHxqNAktyi4/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw3MXgxZ3p3MjBmZDA3Ynk1eGp3Z3Bzc3N1Z3owYWF0ODdjNnQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12LFHxqNAktyi4/giphy.gif" alt="Anime Cherry Blossoms Flowing" width="250">
 
 ## 💫 About Me
 
