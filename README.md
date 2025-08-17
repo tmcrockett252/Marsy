@@ -1,6 +1,6 @@
 # 🌸 Hi there, I'm Talia! 🌸
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Anime Cherry Blossoms Flowing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw3MXgxZ3p3MjBmZDA3Ynk1eGp3Z3Bzc3N1Z3owYWF0ODdjNnQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12LFHxqNAktyi4/giphy.gif)
 
 ## 💫 About Me
 
@@ -50,4 +50,4 @@ I'm always excited to meet fellow developers, anime enthusiasts, or anyone who w
 ---
 *"Code is like a song - it needs rhythm, structure, and a touch of creativity to make it beautiful!"* 🎵💻
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Pink Computer and Coding](https://i.pinimg.com/originals/9a/ca/86/9aca86f0ebb2ad5fd5eb2bf4d67d596e.gif)
